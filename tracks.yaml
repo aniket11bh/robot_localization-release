@@ -115,11 +115,11 @@ tracks:
     name: robot_localization
     patches: null
     release_inc: '1'
-    release_repo_url: null
+    release_repo_url: https://github.com/aniket11bh/robot_localization-release.git
     release_tag: :{version}
     ros_distro: humble
     vcs_type: git
-    vcs_uri: https://github.com/cra-ros-pkg/robot_localization.git
+    vcs_uri: https://github.com/aniket11bh/robot_localization.git
     version: :{auto}
   hydro:
     actions:
